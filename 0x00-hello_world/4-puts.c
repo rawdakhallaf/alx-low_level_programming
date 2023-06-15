@@ -2,7 +2,7 @@
 /**
  * main - A program that print a language puts function 
  * Programming is like building a multilingual puzzle, followed by a new line.
- * return value should be 0 
+ * return : 0 (success)
  */
 int main(void)
 {  
