@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * print_alphabet - prints the english alphabet from a-z.
- * Return: Nothing.
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 void print_alphabet(void)
 {
